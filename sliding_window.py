@@ -1,5 +1,5 @@
 import numpy as np
-from PIL import Image #i will not use it here
+from PIL import Image #i will not use it here 
 px=8
 pic=np.linspace(1,px*px,px*px).reshape(px,px) #i will use just numbers for demonstration
 
